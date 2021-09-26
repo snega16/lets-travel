@@ -1,7 +1,7 @@
 # Lets-Travel
 <font size=4> 👉 This website shows the details of various landmarks. A registered user can add , edit and delete the details of the places. If they have any query they can make a callback request to the admin or mail them. </font>
 <br>
-<font size=4> 👉 To run this project fork it and open in your own ide.
+<font size=4> 👉 To run this project, open it in your own ide.
  <br>
   Execute 
   1. npm install
